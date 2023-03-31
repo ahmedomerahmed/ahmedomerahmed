@@ -7,7 +7,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/ahmedomerahmed/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ahmedomerahmed/azure-network-protocols)
-  - <b>VPN</b>
+- <b>VPN</b>
   - [Configuring VPN within Azure VMs](https://github.com/ahmedomerahmed/configure-ad)
 
 <h2>🤳Connect with me:</h2>
