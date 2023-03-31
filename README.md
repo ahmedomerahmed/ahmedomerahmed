@@ -5,8 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ahmedomerahmed/osticket-prereqs)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/ahmedomerahmed/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ahmedomerahmed/azure-network-protocols)
+  - [Configuring Virtual machice within Azure](https://github.com/ahmedomerahmed/configure-ad)
 - <b>VPN</b>
   - [Configuring VPN within Azure VMs](https://github.com/ahmedomerahmed/configure-ad)
 
