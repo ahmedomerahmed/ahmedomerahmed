@@ -6,8 +6,6 @@
   - [osTicket: Prerequisites and Installation](https://github.com/ahmedomerahmed/osticket-prereqs)
 - <b>Microsoft Azure</b>
   - [Configuring Virtual machice within Azure](https://github.com/ahmedomerahmed/configure-ad)
-- <b>VPN</b>
-  - [Configuring VPN within Azure VMs](https://github.com/ahmedomerahmed/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
